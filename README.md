@@ -1,12 +1,11 @@
 <h1 align="center"><h1 align="center">Relentless Execution. No Excuses. ⚡</h1></h1>
 
 ###
+<p align="center">
+  <img src="https://i.imgflip.com/akmuv8.gif" height="210"/>
+</p>
 
-<div align="center">
-  <img height="210" src="https://imgflip.com/gif/akmuv8" />
-</div>
 
-###
 
 <br clear="both">
 
